@@ -9,7 +9,7 @@ Number of Deaths from Covid19.
 
 # WEB APP LIVE LINK
 
- http://0.0.0.0:8050//covid-19
+ https://covid-19.herokuapp.com/
  
  # WEB INTERFACE IMAGE
  ![Screenshot 2022-12-17 155517](https://user-images.githubusercontent.com/79755342/208237307-3a5686c6-661b-44cd-acd7-637a7fd0f1af.png)
